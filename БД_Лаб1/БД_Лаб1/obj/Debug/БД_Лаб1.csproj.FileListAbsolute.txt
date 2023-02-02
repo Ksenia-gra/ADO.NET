@@ -1,0 +1,47 @@
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\БД\БД_Лаб1\БД_Лаб1\bin\Debug\БД_Лаб1.exe.config
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\БД\БД_Лаб1\БД_Лаб1\bin\Debug\БД_Лаб1.exe
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\БД\БД_Лаб1\БД_Лаб1\bin\Debug\БД_Лаб1.pdb
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\БД\БД_Лаб1\БД_Лаб1\obj\Debug\БД_Лаб1.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\БД\БД_Лаб1\БД_Лаб1\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\БД\БД_Лаб1\БД_Лаб1\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\БД\БД_Лаб1\БД_Лаб1\obj\Debug\БД_Лаб1_MarkupCompile.cache
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\БД\БД_Лаб1\БД_Лаб1\obj\Debug\БД_Лаб1_MarkupCompile.lref
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\БД\БД_Лаб1\БД_Лаб1\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\БД\БД_Лаб1\БД_Лаб1\obj\Debug\БД_Лаб1.g.resources
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\БД\БД_Лаб1\БД_Лаб1\obj\Debug\БД_Лаб1.Properties.Resources.resources
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\БД\БД_Лаб1\БД_Лаб1\obj\Debug\БД_Лаб1.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\БД\БД_Лаб1\БД_Лаб1\obj\Debug\БД_Лаб1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\БД\БД_Лаб1\БД_Лаб1\obj\Debug\БД_Лаб1.exe
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\БД\БД_Лаб1\БД_Лаб1\obj\Debug\БД_Лаб1.pdb
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\БД\БД_Лаб1\БД_Лаб1\obj\Debug\MainPage.g.cs
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\БД\БД_Лаб1\БД_Лаб1\obj\Debug\SignInControl.g.cs
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\БД\БД_Лаб1\БД_Лаб1\obj\Debug\MainPage.baml
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\БД\БД_Лаб1\БД_Лаб1\obj\Debug\SignInControl.baml
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\БД\БД_Лаб1\БД_Лаб1\obj\Debug\RegistrationPage.g.cs
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\БД\БД_Лаб1\БД_Лаб1\obj\Debug\RegistrationPage.baml
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\БД\БД_Лаб1\БД_Лаб1\obj\Debug\AdminPage.g.cs
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\БД\БД_Лаб1\БД_Лаб1\obj\Debug\AdminPage.baml
+\\Mac\Home\Desktop\3 course\Laboratories\BD\БД_Лаб1\БД_Лаб1\bin\Debug\БД_Лаб1.exe.config
+\\Mac\Home\Desktop\3 course\Laboratories\BD\БД_Лаб1\БД_Лаб1\bin\Debug\БД_Лаб1.exe
+\\Mac\Home\Desktop\3 course\Laboratories\BD\БД_Лаб1\БД_Лаб1\bin\Debug\БД_Лаб1.pdb
+\\Mac\Home\Desktop\3 course\Laboratories\BD\БД_Лаб1\БД_Лаб1\obj\Debug\БД_Лаб1.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\3 course\Laboratories\BD\БД_Лаб1\БД_Лаб1\obj\Debug\БД_Лаб1.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\3 course\Laboratories\BD\БД_Лаб1\БД_Лаб1\obj\Debug\AdminPage.g.cs
+\\Mac\Home\Desktop\3 course\Laboratories\BD\БД_Лаб1\БД_Лаб1\obj\Debug\MainPage.g.cs
+\\Mac\Home\Desktop\3 course\Laboratories\BD\БД_Лаб1\БД_Лаб1\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\3 course\Laboratories\BD\БД_Лаб1\БД_Лаб1\obj\Debug\RegistrationPage.g.cs
+\\Mac\Home\Desktop\3 course\Laboratories\BD\БД_Лаб1\БД_Лаб1\obj\Debug\SignInControl.g.cs
+\\Mac\Home\Desktop\3 course\Laboratories\BD\БД_Лаб1\БД_Лаб1\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\3 course\Laboratories\BD\БД_Лаб1\БД_Лаб1\obj\Debug\БД_Лаб1_MarkupCompile.cache
+\\Mac\Home\Desktop\3 course\Laboratories\BD\БД_Лаб1\БД_Лаб1\obj\Debug\БД_Лаб1_MarkupCompile.lref
+\\Mac\Home\Desktop\3 course\Laboratories\BD\БД_Лаб1\БД_Лаб1\obj\Debug\AdminPage.baml
+\\Mac\Home\Desktop\3 course\Laboratories\BD\БД_Лаб1\БД_Лаб1\obj\Debug\MainPage.baml
+\\Mac\Home\Desktop\3 course\Laboratories\BD\БД_Лаб1\БД_Лаб1\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\3 course\Laboratories\BD\БД_Лаб1\БД_Лаб1\obj\Debug\RegistrationPage.baml
+\\Mac\Home\Desktop\3 course\Laboratories\BD\БД_Лаб1\БД_Лаб1\obj\Debug\SignInControl.baml
+\\Mac\Home\Desktop\3 course\Laboratories\BD\БД_Лаб1\БД_Лаб1\obj\Debug\БД_Лаб1.g.resources
+\\Mac\Home\Desktop\3 course\Laboratories\BD\БД_Лаб1\БД_Лаб1\obj\Debug\БД_Лаб1.Properties.Resources.resources
+\\Mac\Home\Desktop\3 course\Laboratories\BD\БД_Лаб1\БД_Лаб1\obj\Debug\БД_Лаб1.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\3 course\Laboratories\BD\БД_Лаб1\БД_Лаб1\obj\Debug\БД_Лаб1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\3 course\Laboratories\BD\БД_Лаб1\БД_Лаб1\obj\Debug\БД_Лаб1.exe
+\\Mac\Home\Desktop\3 course\Laboratories\BD\БД_Лаб1\БД_Лаб1\obj\Debug\БД_Лаб1.pdb

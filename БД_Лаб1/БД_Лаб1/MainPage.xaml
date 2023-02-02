@@ -1,0 +1,247 @@
+﻿<UserControl x:Class="БД_Лаб1.MainPage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:БД_Лаб1"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+
+
+
+        </Grid.RowDefinitions>
+
+
+        <DataGrid Name="data" Grid.Column="0"
+        >
+
+        </DataGrid>
+
+
+        <TabControl
+            Grid.ColumnSpan="2"
+            Grid.Column="0"
+            Grid.Row ="1"
+            SelectionChanged="TabControl_SelectionChanged">
+            <TabItem x:Name="ex1"
+                     >
+                <TabItem.Header>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Width="75" Margin="2">Задание 1</TextBlock>
+                    </StackPanel>
+                </TabItem.Header>
+                <TabItem.Content>
+                    <UniformGrid Columns="2">
+                        <TextBlock
+                            Width="150"
+                            Height="30"
+                            FontSize="15"
+                            Text="Введите фамилию:"/>
+                        <TextBox
+                            x:Name="Excercise1"
+                            HorizontalAlignment="Left"
+                                VerticalAlignment="Center"
+                            Width="300"
+                            FontSize="14" />
+                        <Button 
+                            x:Name="makeSelectButton"
+                            Content="Сделать выборку"
+                            HorizontalAlignment="Center"
+                                VerticalAlignment="Center"
+                            Padding="10"
+                            FontSize="15"
+                            Click="makeSelectButton_Click"
+                            />
+                    </UniformGrid>
+                </TabItem.Content>
+            </TabItem>
+
+            <TabItem x:Name="ex2">
+                <TabItem.Header>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Width="75" Margin="2">Задание 2</TextBlock>
+                    </StackPanel>
+                </TabItem.Header>
+                <TabItem.Content>
+                    <UniformGrid Columns="1">
+                        <Button x:Name="ex2Button"
+                                Content="Вычислить возраст студентов юношей"
+                                HorizontalAlignment="Center"
+                                VerticalAlignment="Center"
+                                Padding="10"
+                                FontSize="15"
+                                Click="ex2Button_Click"/>
+                    </UniformGrid>
+                </TabItem.Content>
+            </TabItem>
+
+            <TabItem x:Name="taskThree">
+                <TabItem.Header>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Width="75" Margin="1">Задание 3</TextBlock>
+                    </StackPanel>
+                </TabItem.Header>
+                <TabItem.Content>
+                    <UniformGrid Columns="2">
+                        <TextBlock
+                            Width="170"
+                            Height="30"
+                            FontSize="15"
+                            Text="Введите номер группы:"/>
+                        <TextBox
+                            x:Name="Excercise3"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Center"
+                            Width="300"
+                            FontSize="14"  />
+                        <Button 
+                            x:Name="ex3Button"
+                            Content="Вывести фамилию и инициалы"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Center"
+                            Padding="10"
+                            FontSize="14"
+                            Click="ex3Button_Click"/>
+                    </UniformGrid>
+                </TabItem.Content>
+            </TabItem>
+            <TabItem x:Name="taskFour">
+                <TabItem.Header>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Width="75" Margin="1">Задание 4</TextBlock>
+                    </StackPanel>
+                </TabItem.Header>
+                <TabItem.Content>
+                    <UniformGrid Columns="2">
+                        <TextBlock
+                            Width="170"
+                            Height="30"
+                            FontSize="15"
+                            Text="Введите год рождения:"/>
+                        <TextBox
+                            x:Name="Excercise4"
+                           HorizontalAlignment="Center"
+                                VerticalAlignment="Center"
+                                Width="300"
+                            FontSize="14" />
+                        <Button 
+                            x:Name="ex4Button"
+                            Content="Вывести фамилию и группу"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Center"
+                            Padding="10"
+                            FontSize="14"
+                            Click="ex4Button_Click"
+                            />
+                    </UniformGrid>
+                </TabItem.Content>
+            </TabItem>
+            <TabItem x:Name="taskFive">
+                <TabItem.Header>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Width="75" Margin="2">Задание 5</TextBlock>
+                    </StackPanel>
+                </TabItem.Header>
+                <TabItem.Content>
+                    <UniformGrid Columns="1">
+                        <Button x:Name="ex5Button"
+                                Content="Вывести фамилии и №группы иногородних студентов"
+                                HorizontalAlignment="Center"
+                                VerticalAlignment="Center"
+                                Padding="10"
+                                FontSize="14"
+                                Click="ex5Button_Click"
+                                />
+                    </UniformGrid>
+                </TabItem.Content>
+            </TabItem>
+
+            
+
+            <TabItem x:Name="taskSeven">
+                <TabItem.Header>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Width="75" Margin="2">Задание 7</TextBlock>
+                    </StackPanel>
+                </TabItem.Header>
+                <TabItem.Content>
+                    <UniformGrid Columns="2">
+                        <DatePicker
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Center"
+                            Padding="50,5"
+                            Name="ChooseDate"
+                            >
+
+                        </DatePicker>
+                        <Button 
+                            x:Name="findStudentButton"
+                            Content="Найти студента"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Center"
+                            Padding="10"
+                            FontSize="14"
+                            Click="findStudentButton_Click"/>
+                    </UniformGrid>
+                </TabItem.Content>
+            </TabItem>
+
+            <TabItem x:Name="taskEight">
+                <TabItem.Header>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Width="75" Margin="2">Задание 8</TextBlock>
+                    </StackPanel>
+                </TabItem.Header>
+                <TabItem.Content>
+                    <UniformGrid Columns="3"
+                     >
+                        <TextBlock
+                            Width="170"
+                            Height="30"
+                            FontSize="15"
+                            Text="Введите диапазон дат:"/>
+                        <DatePicker
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Center"
+                            Padding="50,5"
+                            Name="ChooseDateRange1"
+                            >
+
+                        </DatePicker>
+                        <DatePicker
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Center"
+                            Padding="50,5"
+                            Name="ChooseDateRange2"
+                            DisplayDateStart="{Binding ElementName=ChooseDateRange1, Path=SelectedDate}">
+
+                        </DatePicker>
+                        <Button 
+                            x:Name="findStudentEx8"
+                            Content="Найти студента"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Center"
+                            Padding="10"
+                            FontSize="14"
+                            Click="findStudentEx8_Click"
+                            />
+                    </UniformGrid>
+                </TabItem.Content>
+            </TabItem>
+        </TabControl>
+        <Button Grid.Row="2"
+                Content="Выход"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                Padding="70,10"
+                Name="Exit"
+                Click="Exit_Click">
+
+        </Button>
+    </Grid>
+</UserControl>
